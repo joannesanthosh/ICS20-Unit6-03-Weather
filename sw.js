@@ -1,4 +1,4 @@
-var GHPATH = "/ICS20-Unit6-01-PWA"
+var GHPATH = "/ICS20-Unit6-03-Weather"
 var APP_PREFIX = "gppwa_"
 var VERSION = "version_001"
 var URLS = [
