@@ -1,7 +1,7 @@
-# ICS20-Unit6-01-PWA
+# ICS20-Unit6-03-Weather
 
-[![GitHub's Super Linter](https://github.com/joannesanthosh/ICS20-Unit6-01-PWA/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/joannesanthosh/ICS20-Unit6-01-PWA/actions)
+[![GitHub's Super Linter](https://github.com/joannesanthosh/ICS20-Unit6-03-Weather/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/joannesanthosh/ICS20-Unit6-03-Weather/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/joannesanthosh/ICS20-Unit6-01-PWA)](https://repl.it/github/joannesanthosh/ICS20-Unit6-01-PWA)
+[![Run on Repl.it](https://repl.it/badge/github/joannesanthosh/ICS20-Unit6-03-Weather)](https://repl.it/github/joannesanthosh/ICS20-Unit6-03-Weather)
 
-This site can be found at: [https://joannesanthosh.github.io/ICS20-Unit6-01-PWA](https://joannesanthosh.github.io/ICS20-Unit6-01-PWA)
+This site can be found at: [https://joannesanthosh.github.io/ICS20-Unit6-03-Weather](https://joannesanthosh.github.io/ICS20-Unit6-03-Weather)
