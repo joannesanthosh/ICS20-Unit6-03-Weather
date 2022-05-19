@@ -1,0 +1,34 @@
+/* Created by: Joanne Santhosh
+* Created on: Mar 2022
+* This file contains the CSS for index.html
+*/
+
+body {
+  background-color: #e0ddb2;
+  font-size: 10pt;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+p {
+  color: #367196;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  padding: text-align;
+}
+
+h3 {
+  padding: text-align;
+  color: #367196;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  padding: text-align;
+  color: #367196;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+h5 {
+  padding: text-align;
+  color: #367196;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
